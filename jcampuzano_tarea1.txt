@@ -1,0 +1,26 @@
+Crear una carpeta en git con el nombre de su usuario en el repositorio.
+
+Investigar que es un pod.
+	Plain Old Documentation.- Es un lenguaje de marcas sencillo de usar
+	para escribir documentación de programas y modulos en Perl. Existen traductores
+	disponibles para convertir Pod a varios formatos como texto sin formato, HTML, páginas 
+	de manual y más.
+	Consiste en tres tipos básicos de párrafos: ordinario, textual y comando.
+	Ordinario.- Se puede escribir texto sin nigun beneficio absoluto, son solo salto de línea
+	antes y despues.
+	Textual.- Son párrafos literales que se utilizan generalmente para la presentación de un bloque
+	de código u otro texto que no requiere ningún tipo de análisis o formato especial, y que no debe
+	ser envuelto.
+	Párrafo.- Se usa para el tratamiento especial de trozos de texto, por lo general como partidas o partes de las listas.
+	Fuente de consulta
+	http://perldoc.perl.org/perlpod.html
+
+Realizar un programa sencillo que contenga pod y subirlo a su carpeta.
+
+Investigar que es un pragma.
+	Pragma.- Es un módulo que influte en algún aspecto del tiempo de compilación o el comportamiento
+	en tiempo de ejecución de Perl, por ejemplo al usar el pragma strict o warnings. A partir de Perl 5.10
+	ya no se limita a la incorporación de pragmas, sino también se puede crear un pragma de usuario  que 
+	modifique el comportamiento de las funciones de usuario dentro de un ámbito léxico.  
+	Fuentes de consulta
+	http://perldoc.perl.org/perlpragma.html
